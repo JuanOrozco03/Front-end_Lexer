@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <script src="lexerFront.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+    <script src="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.js"></script>'
+    <title>Lexer</title>
+</head>
+<body>
+    <div id="receiver">
+        <label for="code-receiver">Ponga su codigo aca</label>
+        <textarea name="" id="code-receiver" cols="30" rows="10"></textarea>
+    </div>
+    <div id="button">
+        <button  id="back-button" onclick="getCode()">Convertir</button>
+    </div>
+    <div id="result">
+        <label for="code-result">Resultado de tu consulta</label>
+        <table id="example" class="display" width="100%"></table>
+    </div>
+</body>
+</html>

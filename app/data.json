@@ -1,0 +1,170 @@
+[
+    {
+      "num_token": 1,
+      "type": "INT",
+      "value": "int",
+      "line": 16
+    },
+    {
+      "num_token": 2,
+      "type": "ID",
+      "value": "stuff_count",
+      "line": 16
+    },
+    {
+      "num_token": 3,
+      "type": "SEMI",
+      "value": ";",
+      "line": 16
+    },
+    {
+      "num_token": 4,
+      "type": "STATIC",
+      "value": "static",
+      "line": 22
+    },
+    {
+      "num_token": 5,
+      "type": "INT",
+      "value": "int",
+      "line": 22
+    },
+    {
+      "num_token": 6,
+      "type": "ID",
+      "value": "fib",
+      "line": 22
+    },
+    {
+      "num_token": 7,
+      "type": "LPAREN",
+      "value": "(",
+      "line": 22
+    },
+    {
+      "num_token": 8,
+      "type": "RPAREN",
+      "value": ")",
+      "line": 22
+    },
+    {
+      "num_token": 9,
+      "type": "LBRACE",
+      "value": "{",
+      "line": 22
+    },
+    {
+      "num_token": 10,
+      "type": "RETURN",
+      "value": "return",
+      "line": 23
+    },
+    {
+      "num_token": 11,
+      "type": "ID",
+      "value": "stuff_count",
+      "line": 23
+    },
+    {
+      "num_token": 12,
+      "type": "MULEQ",
+      "value": "%=",
+      "line": 23
+    },
+    {
+      "num_token": 13,
+      "type": "INUMBER",
+      "value": "1",
+      "line": 23
+    },
+    {
+      "num_token": 14,
+      "type": "SEMI",
+      "value": ";",
+      "line": 23
+    },
+    {
+      "num_token": 15,
+      "type": "RBRACE",
+      "value": "}",
+      "line": 24
+    },
+    {
+      "num_token": 16,
+      "type": "INT",
+      "value": "int",
+      "line": 27
+    },
+    {
+      "num_token": 17,
+      "type": "ID",
+      "value": "increment_stuff_count",
+      "line": 27
+    },
+    {
+      "num_token": 18,
+      "type": "LPAREN",
+      "value": "(",
+      "line": 27
+    },
+    {
+      "num_token": 19,
+      "type": "RPAREN",
+      "value": ")",
+      "line": 27
+    },
+    {
+      "num_token": 20,
+      "type": "LBRACE",
+      "value": "{",
+      "line": 27
+    },
+    {
+      "num_token": 21,
+      "type": "ID",
+      "value": "fib",
+      "line": 28
+    },
+    {
+      "num_token": 22,
+      "type": "LPAREN",
+      "value": "(",
+      "line": 28
+    },
+    {
+      "num_token": 23,
+      "type": "RPAREN",
+      "value": ")",
+      "line": 28
+    },
+    {
+      "num_token": 24,
+      "type": "SEMI",
+      "value": ";",
+      "line": 28
+    },
+    {
+      "num_token": 25,
+      "type": "RETURN",
+      "value": "return",
+      "line": 29
+    },
+    {
+      "num_token": 26,
+      "type": "INUMBER",
+      "value": "0",
+      "line": 29
+    },
+    {
+      "num_token": 27,
+      "type": "SEMI",
+      "value": ";",
+      "line": 29
+    },
+    {
+      "num_token": 28,
+      "type": "RBRACE",
+      "value": "}",
+      "line": 30
+    }
+  ]
